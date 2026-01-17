@@ -1,0 +1,4 @@
+# Core dependencies (Tkinter is built-in)
+
+# Optional for enhanced analytics
+# matplotlib==3.7.0
