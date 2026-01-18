@@ -36,4 +36,4 @@ smart-parking-system/
 - Tkinter (built-in)
 
 ## Development Team
-[Your names here]
+Zaka Mujeeb
